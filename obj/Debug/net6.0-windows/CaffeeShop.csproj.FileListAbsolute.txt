@@ -1,0 +1,911 @@
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Form1.resources
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CafeShop\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Form1.resources
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Login.resources
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Admin.resources
+C:\Workspace\OOP_Va_.Net Core\Bai_Tap\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Users.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Admin.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Form1.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Login.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Menu.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormUsers.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Admin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Form1.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormUsers.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Login.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Menu.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormUsers.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormAdmin.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormAdmin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormUsers.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormAdmin.resources
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.FormUsers.resources
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\CaffeeShop (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormAdmin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormUsers.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee1.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee1.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee1.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee1.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee1.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\CaffeeShop (1) (1) (1) (1) (2) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Learn\oop\DoAnCuoiKy\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ChangePassWord.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ChangePassWord.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ChangePassWord.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ChangePassWord.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ChangePassWord.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ChangePassWord.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucInfoNV.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.ucOrder.resources
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Workspace\oppdotnet\do-an-cuoi-ki\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Learn\oop\DoAnCuoiKy (1) (2) (1)\CaffeeShop (1) (1) (1) (1) (2) (1) (1) (1)\obj\Debug\net6.0-windows\CaffeeShop.FormChangePassWord.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormChangePassWord.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKi\CoffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormChangePassWord.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\NHOM10_DOANCUOIKI\DoAnCuoiKy (1) (2) (1)\CoffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormChangePassWord.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormChangePassWord.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10 (1)\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.exe
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.deps.json
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\bin\Debug\net6.0-windows\CheckLoi.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormChangePassWord.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormCustomer.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormEmployee.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormLogin.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormManager.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.FormSignUp.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\refint\CaffeeShop.dll
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.pdb
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\CaffeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì_Nhóm 10\Đồ án cuối kì\CoffeeShop\obj\Debug\net6.0-windows\ref\CaffeeShop.dll

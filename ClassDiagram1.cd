@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CaffeeShop.Person">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAIAgAAAAAAAQAQAAEAEAAAAAAAAQAAAAkA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.Manager">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="CaffeeShop.Person" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="4.43" />
+        <Point X="3.25" Y="5.375" />
+        <Point X="1.312" Y="5.375" />
+        <Point X="1.312" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QIAAREAAAAIAgAAAQAAAUAgAAABAAAAAAAAAgAgAAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.Customer">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAgAAAAAAgQBmQAAAAAAAAAAAAAJAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CaffeeShop.Product">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAUAAAEBAAABAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.Program" Collapsed="true">
+    <Position X="9.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.Barista">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAACAAAACggABAgAAAQAAAAAAAYAAAAAAABABBAAA=</HashCode>
+      <FileName>Barista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.Order">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAABACAAAQAAABACAQAAAgQAAAAEABCAAAAAg=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CaffeeShop.DentailOrder">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAEAAAABAAAAAQAAAAAACAAQAAiAAAAAg=</HashCode>
+      <FileName>DentailOrder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CaffeeShop.FeedBack">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAoIAAgACAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>FeedBack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CaffeeShop.FormCustomer" Collapsed="true">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XzSBAQCTIXAFYNgAUFDBbQhqhyQSuzBCGGgYAmBRADw=</HashCode>
+      <FileName>FormCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.FormEmployee" Collapsed="true">
+    <Position X="3" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAgAYAADAAQABAQCiAAAAKAAASAAACAEAjBADBAAE=</HashCode>
+      <FileName>FormEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.FormLogin" Collapsed="true">
+    <Position X="5.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAJQAACAAABQAQACAAACCACQ6AAAAABAAAYAAAAE=</HashCode>
+      <FileName>FormLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.FormManager" Collapsed="true">
+    <Position X="7.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/rKbQEGmADAiYdQhYACwKAwGBBwSlQECUWhaEBR50BE=</HashCode>
+      <FileName>FormManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaffeeShop.ConnectionData" Collapsed="true">
+    <Position X="11.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectionData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CaffeeShop.Save">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Save.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CaffeeShop.LoaiProduct">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>LoaiProduct.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
